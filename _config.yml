@@ -25,14 +25,14 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
+  primary: B00000 #80B3FF
   primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  secondary: FDO108 #FD6E8A
+  secondary-dark: 1888CE #A2122F
 
 # Footer settings
 footer:
-  copyright: 
+  copyright: Cisse Oumar
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: www.linkedin.com/in/oumar-cisse-
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/Oumarcisse1206-bit
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
