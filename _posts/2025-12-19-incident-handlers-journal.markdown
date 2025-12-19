@@ -4,9 +4,6 @@ modal-id: 5
 title: Incident Handlers Journal
 img: handlersjournal.png
 alt: image-alt
-
- # Reminder: Update this link with your own project link
- project-url:https://docs.google.com/document/d/177ATMZDS1Zzypze3ZIEiNOBc_XV2ipiaFDCzrHO2_50/edit?usp=sharing
- 
+project-url:https://docs.google.com/document/d/177ATMZDS1Zzypze3ZIEiNOBc_XV2ipiaFDCzrHO2_50/edit?usp=sharing
 description: Clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process
 ---
